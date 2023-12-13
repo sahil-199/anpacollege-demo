@@ -1,3 +1,3 @@
 # anpacollege-demo
 This is my first git repository.
-Author- Sahil parihar(Jodo)
+Author- Sahil parihar(Ex-Jodo)
